@@ -23,6 +23,7 @@ Repo for links from the macad.uk 2023 talk "What's new with Ventura for Mac admi
 ## Rapid Security Response
 - [Manage Rapid Security Responses on Apple devices](https://support.apple.com/guide/deployment/dep93ff7ea78/1/web/1.0)
 - [ProcessInfo OperatingSystemVersion](https://developer.apple.com/documentation/foundation/operatingsystemversion)
+- - [Three ways to determine if macOS Rapid Security Response updates have been installed on your fleet.](https://www.macosadventures.com/2023/05/03/three-ways-to-determine-if-macos-rapid-security-response-updates-have-been-installed-on-your-fleet/)
 - [Jamf Pro Release Notes 10.46.0 - New Features and Enhancements](https://learn.jamf.com/bundle/jamf-pro-release-notes-10.46.0/page/New_Features_and_Enhancements.html)
 - [About the security content of macOS Ventura 13.4](https://support.apple.com/HT213758)
 
@@ -47,6 +48,7 @@ Repo for links from the macad.uk 2023 talk "What's new with Ventura for Mac admi
 - [Declarative device management](https://support.apple.com/guide/deployment/depc0aadd3fe/1/web/1.0#depa6b3d465c)
 - [Jamf Pro Release Notes 10.42.0 - New Features and Enhancements](https://learn.jamf.com/bundle/jamf-pro-release-notes-10.42.0/page/New_Features_and_Enhancements.html#ariaid-title2)
 - [Jamf Pro Release Notes 10.46.0 - New Features and Enhancements](https://learn.jamf.com/bundle/jamf-pro-release-notes-10.46.0/page/New_Features_and_Enhancements.html#ariaid-title2)
+- [Three ways to determine if macOS Rapid Security Response updates have been installed on your fleet.](https://www.macosadventures.com/2023/05/03/three-ways-to-determine-if-macos-rapid-security-response-updates-have-been-installed-on-your-fleet/)
 
 ## Managed Device Attestation
 - [Managed Device Attestation for Apple devices](https://support.apple.com/guide/deployment/dep28afbde6a/web)
